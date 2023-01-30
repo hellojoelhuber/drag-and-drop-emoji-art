@@ -1,6 +1,6 @@
 # Emoji Art
 
-This project was created as a samplie implementation of [SwiftUI Drag-and-Drop](https://github.com/hellojoelhuber/swiftui-drag-and-drop) library. This README is a mirror of my [personal website](https://www.joelhuber.com/software-documentation/documentation-emoji-art/).
+This project was created as a samplie implementation of [SwiftUI Drag-and-Drop](https://github.com/hellojoelhuber/swiftui-drag-and-drop) library. This README is a mirror of my [personal website](https://www.joelhuber.com/documentation/documentation-emoji-art/).
 
 ![Emoji Art Drag-And-Drop Demo](https://github.com/hellojoelhuber/swiftui-drag-and-drop/blob/main/assets/media/documentation-dragdrop-emoji-art-vertical-demo.gif)
 
